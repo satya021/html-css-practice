@@ -1,0 +1,85 @@
+
+.bg{
+    background-image: url("/css\ selectors/bg.png");
+}
+.navbar{
+    background-color: rgb(24, 25, 25);
+    border-radius:30px;
+    }
+    
+    .navbar li{
+        float: left;
+        list-style: none;
+        margin: 13px 20px;
+    }
+    .navbar ul {
+        overflow:auto;
+    } 
+    .navbar li a{
+        padding: 3px 3px;
+        text-decoration: none;
+        color: rgb(233, 224, 224);
+    }
+    .navbar li a:hover{
+      color: red;
+    }
+    .search{
+        float: right;
+        padding: 12px 75px;
+    }
+    navbar input{
+        boder: 2px solid black;
+        border-radius: 14px;
+        padding:3px 17px;
+        width: 129px;
+    }
+    .lett{
+        float: right;
+        padding: 12px 75px;
+        
+    }
+    .hfour{
+        font-size: 30px;
+        color: rgb(197, 220, 50);
+        
+        font-weight: bold;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: stretch;
+     
+    }
+.alt{
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 200px;
+}
+.fir:hover{
+    color: rgb(0, 21, 255);
+}
+.head{
+    color: rgb(51, 0, 255);
+}
+.head:hover{
+    color: green;
+}
+ap.{
+    colour: black;
+}
+.abu{
+    color: red;
+}
+.abo:hover{
+    color: blue;
+}
+.ctc:hover{
+    color: rgb(255, 0, 13);
+}
+.ctc{
+    margin-left: 500px;
+}
+.form{
+
+    margin-left: 500px;
+}
