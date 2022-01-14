@@ -1,37 +1,46 @@
-.head{
-    margin :auto;
+.head {
+    margin: auto;
 }
-.alt{
+
+.alt {
     width: 800px;
     height: 500px;
     border: 1px solid black;
     margin-left: 200px;
 }
-.fir:hover{
+
+.fir:hover {
     color: rgb(0, 21, 255);
 }
-.head{
+
+.head {
     color: rgb(51, 0, 255);
 }
-.head:hover{
+
+.head:hover {
     color: green;
 }
-.ap{
+
+.ap {
     colour: black;
 }
-.abu{
+
+.abu {
     color: red;
 }
-.abo:hover{
+
+.abo:hover {
     color: blue;
 }
-.ctc:hover{
+
+.ctc:hover {
     color: rgb(255, 0, 13);
 }
-.ctc{
+
+.ctc {
     margin-left: 500px;
 }
-.form{
 
+.form {
     margin-left: 500px;
 }
